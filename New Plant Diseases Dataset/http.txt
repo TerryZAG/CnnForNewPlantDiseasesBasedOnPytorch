@@ -1,0 +1,2 @@
+dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/code
+code: https://www.kaggle.com/code/tikhonvodyanov/pytorch-plant-disease-cnn-98-accuracy/notebook
